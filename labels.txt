@@ -1,0 +1,4 @@
+A sample of lableled data:
+url_length,param_number,return_code,label, http_query
+49,1,404,1,GET /honeypot/bsidesdfw%20-%202014.ipynb HTTP/1
+Label could be 1 (attack detected) or 0 (no attack detected)
